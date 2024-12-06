@@ -1,8 +1,0 @@
-node_modules/
-temp_backup/
-public/
-.next/
-*.pdf
-.env
-package-lock.json
-
