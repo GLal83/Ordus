@@ -1,0 +1,12 @@
+.env
+.env*
+node_modules/
+public/materials/
+public/forms/
+public/precedents/
+uploads/
+*.pdf
+dist/
+build/
+.next/
+.DS_Store
